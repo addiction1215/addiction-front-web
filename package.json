@@ -16,14 +16,15 @@
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.4.1",
     "react-scripts": "5.0.1",
+    "styled-components": "^6.1.17",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start"
-},
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
