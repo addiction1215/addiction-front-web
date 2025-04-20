@@ -1,4 +1,10 @@
 /* App.css */
+
+/* tailwind css 관련 코드*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body,
 html {
   margin: 0;
