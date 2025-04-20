@@ -1,32 +1,42 @@
 {
   "polyfillFiles": [
-    "static/chunks/polyfills.js"
+    "static/chunks/polyfills-42372ed130431b0a.js"
   ],
-  "devFiles": [
-    "static/chunks/react-refresh.js"
-  ],
+  "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/development/_buildManifest.js",
-    "static/development/_ssgManifest.js"
+    "static/k1xhkxzBWlBgZmOWa75BE/_buildManifest.js",
+    "static/k1xhkxzBWlBgZmOWa75BE/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "rootMainFilesTree": {},
   "pages": {
     "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
+      "static/chunks/webpack-a1e79193550164ba.js",
+      "static/chunks/framework-85a46d2e75ac1c50.js",
+      "static/chunks/main-34667a835e34aad2.js",
+      "static/chunks/682-c9832eb4c2f9fb8a.js",
+      "static/chunks/pages/index-7347b1455de1fde8.js"
+    ],
+    "/Login": [
+      "static/chunks/webpack-a1e79193550164ba.js",
+      "static/chunks/framework-85a46d2e75ac1c50.js",
+      "static/chunks/main-34667a835e34aad2.js",
+      "static/chunks/682-c9832eb4c2f9fb8a.js",
+      "static/chunks/pages/Login-acf83ea7e13f8a04.js"
     ],
     "/_app": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_app.js"
+      "static/chunks/webpack-a1e79193550164ba.js",
+      "static/chunks/framework-85a46d2e75ac1c50.js",
+      "static/chunks/main-34667a835e34aad2.js",
+      "static/css/e291fcd75e871990.css",
+      "static/chunks/pages/_app-36a9aa4d40280d8b.js"
     ],
     "/_error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_error.js"
+      "static/chunks/webpack-a1e79193550164ba.js",
+      "static/chunks/framework-85a46d2e75ac1c50.js",
+      "static/chunks/main-34667a835e34aad2.js",
+      "static/chunks/pages/_error-5cb47735b0b9143a.js"
     ]
   },
   "ampFirstPages": []
